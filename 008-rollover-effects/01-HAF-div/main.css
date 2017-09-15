@@ -1,0 +1,11 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: inline-block;
+}
+
+div:hover {
+    background-color: springgreen;
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 15px groove rebeccapurple;
+    display: inline-block;
+}
+
+#one {
+    background-color: chartreuse;
+}
+
+#two {
+    background-color: hotpink;
+}
+
+#three {
+    background-color: cornflowerblue;
+}
+
+#four {
+    background-color: blueviolet;
+}

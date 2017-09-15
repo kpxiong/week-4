@@ -1,0 +1,16 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+p::first-letter {
+    font-family: "Blackadder ITC";
+    font-size: 30px;
+    line-height: .5;
+    color: blueviolet;
+}
+
+p::first-line {
+    color: cornflowerblue;
+}
